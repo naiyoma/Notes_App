@@ -164,7 +164,17 @@ button:focus {
   margin: 110px 170px;  
 }
 
-rash-icon {
+.delete-btn {
+  /* display: none; */
+  background: none;
+  border: none;
+}
+
+/* .title:hover > .delete-btn { */
+  /* display: block;
+} */
+
+.rash-icon {
   cursor: pointer;
 }
 
